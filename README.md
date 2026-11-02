@@ -1,252 +1,102 @@
-<div align="center">
-
-<!-- HERO BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:1D4ED8,100:06B6D4&text=Mohammad%20Ali%20Forhad&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Automation%20Enthusiast%20%7C%20Graphic%20Designer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Mohammad Ali Forhad Banner"/>
-
-<br/>
-
-<img src="YOUR_IMAGE_URL" width="170" alt="Mohammad Ali Forhad" style="border-radius:50%;"/>
-
-# 👋 Hi, I'm Mohammad Ali Forhad
-
-### 🤖 AI Automation Enthusiast | 🎨 Graphic Designer
-
-*Learning continuously. Creating fearlessly. Automating intelligently.*
-
-<br/>
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:050505,55:111827,100:0F172A&text=MOHAMMAD%20ALI%20FORHAD&fontSize=38&fontColor=F8FAFC&fontAlignY=42&desc=AI%20AUTOMATION%20%2F%20GRAPHIC%20DESIGN&descSize=14&descColor=94A3B8&descAlignY=65" width="100%" alt="Mohammad Ali Forhad — dark portfolio banner"/>
+<img src="./assets/profile-photo.jpeg" width="150" alt="Mohammad Ali Forhad profile photo"/><h1>Mohammad Ali Forhad</h1><p>
+  <strong>AI Automation Enthusiast</strong> &nbsp;·&nbsp;
+  <strong>Graphic Designer</strong>
+</p><p>
+  Building practical digital experiences with AI, automation, and design.
+</p>
 <a href="https://github.com/aliforhad78393-dot">
-<img src="https://komarev.com/ghpvc/?username=aliforhad78393-dot&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B0B0B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-<a href="https://github.com/aliforhad78393-dot?tab=followers">
-<img src="https://img.shields.io/github/followers/aliforhad78393-dot?style=for-the-badge&logo=github&label=Followers&color=0891B2" alt="Followers"/>
+<a href="mailto:aliforhad78393@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/aliforhad78393-dot?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<a href="https://tangerine-horse-938822.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-</div>
 
----
+<img src="https://komarev.com/ghpvc/?username=aliforhad78393-dot&style=flat-square&color=334155&label=PROFILE+VIEWS" alt="Profile views"/></div>About
+I'm Mohammad Ali Forhad, an AI Automation Enthusiast and Graphic Designer interested in using technology and creativity to build useful digital solutions.
 
-## 👨‍💻 About Me
+I explore AI tools, automation workflows, digital design, and web technologies while continuously developing my skills.
+- Focus: AI tools, automation, graphic design, and digital experiences
+- Currently learning: Digital Marketing
+- Interested in: Productivity workflows, web projects, and creative problem-solving
+- Based in: Bangladesh
+My approach: stay curious, build consistently, and make technology useful.
 
-Hello! I'm **Mohammad Ali Forhad**, an AI Automation Enthusiast and Graphic Designer passionate about technology, creativity, and digital innovation.
-
-I enjoy exploring AI-powered tools, building automation workflows, creating digital graphics, and learning how technology can solve real-world problems.
-
-- 🤖 Exploring Artificial Intelligence and Automation.
-- 🎨 Interested in Graphic Design and Visual Communication.
-- 📈 Currently learning Digital Marketing.
-- 💻 Exploring Web Development and practical digital projects.
-- ⚡ Interested in productivity tools and smart workflows.
-- 🌱 Always learning and improving my skills.
-- 🤝 Open to creative collaborations and learning opportunities.
-
-> My mission is to combine AI, automation, and creativity to build useful digital solutions.
-
----
-
-## 🎯 What I'm Exploring
-
+Focus Areas
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Automation
-
+<td width="50%" valign="top">01 / AI & Automation
 - AI-powered workflows
-- No-code automation
-- AI productivity tools
-- Automated content creation
-- Connecting digital applications
-
+- No-code automation concepts
+- Productivity tools
+- Content workflow ideas
+- Connecting digital services
 </td>
-<td width="50%" valign="top">
-
-### 🎨 Design & Digital Growth
-
+<td width="50%" valign="top">02 / Design & Digital
 - Graphic design
+- Visual communication
+- Digital branding
+- Social media creative
 - Digital marketing
-- Social media content
-- Visual branding
-- Creative digital experiences
-
 </td>
 </tr>
-</table>
+</table>Tools & Technologies
+<p><strong>Development</strong></p><p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/></a>
+</p><p><strong>AI & Automation</strong></p><p>
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI"/></a>
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Google%20AI-111827?style=flat-square&logo=google&logoColor=4285F4" alt="Google AI"/></a>
+<a href="https://www.make.com/"><img src="https://img.shields.io/badge/Make-111827?style=flat-square&logo=make&logoColor=7B68EE" alt="Make"/></a>
+<a href="https://zapier.com/"><img src="https://img.shields.io/badge/Zapier-111827?style=flat-square&logo=zapier&logoColor=FF4F00" alt="Zapier"/></a>
+</p><p><strong>Design</strong></p><p>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-111827?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop"/></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Illustrator-111827?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" alt="Adobe Illustrator"/></a>
+</p><sub>These badges represent tools I explore or use; my experience varies by tool.</sub>
+Selected Work
+I'm interested in building projects around:
+Area	Direction
+AI Automation	More efficient digital workflows
+Web Development	Useful websites and web applications
+Graphic Design	Digital visuals and branding
+Productivity	Practical tools for creators and businesses
 
----
 
-## 🛠️ Skills & Technologies
-
-### 💻 Development Tools
-
-<div align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"/>
+<div align="center"><a href="https://github.com/aliforhad78393-dot?tab=repositories">
+  <img src="https://img.shields.io/badge/BROWSE%20REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
-</a>
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
-</a>
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
-</a>
-<a href="https://firebase.google.com/">
-<img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
-</a>
-
-</div>
-
-### 🤖 AI & Automation
-
-<a href="https://openai.com/">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</a>
-<a href="https://ai.google.dev/">
-<img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
-</a>
-<a href="https://www.make.com/">
-<img src="https://img.shields.io/badge/Make-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
-</a>
-<a href="https://zapier.com/">
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
-</a>
-
-### 🎨 Graphic Design
-
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
-</a>
-<a href="https://www.adobe.com/products/illustrator.html">
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
-</a>
-
----
-
-## 🚀 My Projects
-
-<div align="center">
-
-<a href="https://github.com/aliforhad78393-dot?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliforhad78393-dot&repo=blackchat-2b033&theme=tokyonight&hide_border=true" alt="Featured Project"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/aliforhad78393-dot?tab=repositories">
-<img src="https://img.shields.io/badge/📂_View_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-</a>
-
-</div>
-
-I'm interested in developing projects involving:
-
-- 🤖 AI Automation
-- 🌐 Web Development
-- 🎨 Digital Design
-- 📱 Productivity Tools
-
-**Explore my projects:** [GitHub Repositories](https://github.com/aliforhad78393-dot?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliforhad78393-dot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliforhad78393-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=aliforhad78393-dot&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aliforhad78393-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/aliforhad78393-dot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://fb.com/mohammadaliforhad795392">
-<img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="https://instagram.com/mohammadali.farhad">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:aliforhad78393@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
 <a href="https://tangerine-horse-938822.netlify.app">
-<img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
+  <img src="https://img.shields.io/badge/VISIT%20WEBSITE-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website"/>
+</a></div>GitHub Overview
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliforhad78393-dot&show_icons=true&theme=transparent&title_color=E5E7EB&text_color=9CA3AF&icon_color=60A5FA&border_color=30363D&bg_color=0D1117&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliforhad78393-dot&layout=compact&theme=transparent&title_color=E5E7EB&text_color=9CA3AF&border_color=30363D&bg_color=0D1117&langs_count=8" alt="Top languages"/>
 
-<br/><br/>
 
-📧 **Email:** [aliforhad78393@gmail.com](mailto:aliforhad78393@gmail.com)
+<img width="90%" src="https://streak-stats.demolab.com?user=aliforhad78393-dot&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=E5E7EB" alt="GitHub contribution streak"/></div>Achievements
+<div align="center"><img width="95%" src="https://github-profile-trophy.vercel.app/?username=aliforhad78393-dot&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/></div>Contact
+<div align="center"><a href="https://github.com/aliforhad78393-dot"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+<a href="https://fb.com/mohammadaliforhad795392"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+<a href="https://instagram.com/mohammadali.farhad"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="mailto:aliforhad78393@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+<a href="https://tangerine-horse-938822.netlify.app"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Website"/></a>
 
-🌍 **Website:** [Visit My Website](https://tangerine-horse-938822.netlify.app)
 
-📍 **Location:** Bangladesh 🇧🇩
 
-</div>
+Email: aliforhad78393@gmail.com
 
----
+Website: tangerine-horse-938822.netlify.app
 
-## 💡 My Philosophy
-
-<div align="center">
-
-### "Learn continuously. Create fearlessly. Automate intelligently."
-
-*Turning ideas into skills, and skills into solutions.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
-
-**⭐ Thanks for visiting my profile!**
-
-If you like my work, feel free to explore my repositories and connect with me.
-
+Location: Bangladesh
+</div><div align="center">“Stay curious. Build with purpose. Improve every day.”
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:050505,100:1E293B&section=footer" width="100%" alt="Footer"/>
+<sub>Thank you for visiting my profile.</sub>
 </div>
