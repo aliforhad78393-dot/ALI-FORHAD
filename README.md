@@ -1,29 +1,209 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ali Forhad</h1>
-<h3 align="center">I am a AI Automation Enthusiast and Graphic Designer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliforhad78393-dot&label=Profile%20views&color=0e75b6&style=flat" alt="aliforhad78393-dot" /> </p>
+<!-- HERO SECTION -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliforhad78393-dot" alt="aliforhad78393-dot" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=Mohammad%20Ali%20Forhad&fontSize=45&fontColor=FFFFFF&fontAlignY=45&desc=AI%20Automation%20Enthusiast%20%7C%20Graphic%20Designer&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Mohammad Ali Forhad - GitHub Profile Header"/>
 
-- 🌱 I’m currently learning **Digital Marketing**
+<a href="https://github.com/aliforhad78393-dot">
+  <img src="https://komarev.com/ghpvc/?username=aliforhad78393-dot&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<a href="https://github.com/aliforhad78393-dot?tab=followers">
+  <img src="https://img.shields.io/github/followers/aliforhad78393-dot?style=for-the-badge&color=0891B2&label=FOLLOWERS" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/aliforhad78393-dot?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [tangerine-horse-938822.netlify.app](tangerine-horse-938822.netlify.app)
+<br/>
 
-- 💬 Ask me about **ai automation**
+### 👋 Hey there! Welcome to my GitHub Profile
 
-- 📫 How to reach me **aliforhad78393@gmail.com**
+**Exploring AI • Building Automation • Creating Digital Experiences**
 
-<h3 align="left">Connect with me:</h3>
+📍 Bangladesh 🇧🇩
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Mohammad Ali Forhad**, an AI Automation Enthusiast and Graphic Designer passionate about technology, creativity, and building useful digital solutions.
+
+I enjoy exploring how artificial intelligence and automation can simplify everyday tasks, improve productivity, and help businesses work smarter.
+
+- 🤖 Exploring AI tools, workflows, and automation.
+- 🎨 Creating visual designs and digital graphics.
+- 📈 Learning Digital Marketing and online growth strategies.
+- 💻 Exploring web technologies and practical software projects.
+- 🧠 Always learning, experimenting, and improving my skills.
+- 🤝 Open to learning opportunities, creative collaborations, and interesting projects.
+
+> **My goal:** Combine AI, automation, and creativity to build practical solutions that make a difference.
+
+---
+
+## 🎯 What I'm Currently Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+- AI-powered workflows
+- No-code automation
+- AI tools and productivity
+- Content creation workflows
+- Connecting applications and services
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Design & Digital Growth
+
+- Graphic design
+- Digital marketing
+- Social media content
+- Visual communication
+- Creative digital experiences
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Development & Web Technologies
+
 <p align="left">
-<a href="https://fb.com/mohammadaliforhad795392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadaliforhad795392" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammadali.farhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadali.farhad" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,firebase,git,github,vscode&perline=9" alt="Development Skills"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### 🤖 AI & Automation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliforhad78393-dot&show_icons=true&locale=en&layout=compact" alt="aliforhad78393-dot" /></p>
+<p align="left">
+  <a href="https://www.make.com/">
+    <img src="https://img.shields.io/badge/Make-Automation-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  </a>
+  <a href="https://zapier.com/">
+    <img src="https://img.shields.io/badge/Zapier-Workflow%20Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+  </a>
+  <a href="https://ai.google.dev/">
+    <img src="https://img.shields.io/badge/Google-AI%20Tools-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
+  </a>
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/OpenAI-AI%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliforhad78393-dot&show_icons=true&locale=en" alt="aliforhad78393-dot" /></p>
+### 🎨 Design & Creative Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliforhad78393-dot&" alt="aliforhad78393-dot" /></p>
+<p align="left">
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+  </a>
+</p>
+
+> **Note:** These badges represent technologies and tools I explore or use. My proficiency varies by tool.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aliforhad78393-dot?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_Explore_My_Repositories-2563EB?style=for-the-badge" alt="Explore GitHub Repositories"/>
+</a>
+
+</div>
+
+I'm interested in building projects around:
+
+| Area | What I Want to Build |
+|:---|:---|
+| 🤖 AI Automation | Workflows that reduce repetitive tasks |
+| 🌐 Web Development | Useful, responsive websites and web applications |
+| 🎨 Graphic Design | Creative digital visuals and branding |
+| 📱 Digital Tools | Practical tools for creators and businesses |
+
+**Want to explore my actual projects?** Visit my [GitHub repositories](https://github.com/aliforhad78393-dot?tab=repositories) or [personal project website](https://tangerine-horse-938822.netlify.app).
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aliforhad78393-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliforhad78393-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=aliforhad78393-dot&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aliforhad78393-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/aliforhad78393-dot">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://fb.com/mohammadaliforhad795392">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/mohammadali.farhad">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:aliforhad78393@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**📧 Email:** aliforhad78393@gmail.com
+
+**🌍 Website:** [Visit My Website](https://tangerine-horse-938822.netlify.app)
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+<div align="center">
+
+### "Learn continuously. Create fearlessly. Automate intelligently."
+
+*Turning ideas into skills, and skills into solutions.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Profile Footer"/>
+
+**Thanks for visiting my profile! ⭐**
+
+If you find something interesting, feel free to explore my repositories and connect with me.
+
+</div>
